@@ -1,3 +1,5 @@
+See http://imaiai.oxfordjournals.org/content/3/2/83
+
 Run "demo.m"
 
 To use your own masks, edit 'makeMeasurements.m'
